@@ -1,2 +1,6 @@
-# React-New
-New website in react
+## Installation
+
+```bash
+    npm install
+    npm run start
+```
